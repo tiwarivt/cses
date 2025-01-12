@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ba9d6cd-1adb-48f9-b0d6-b133d5334557" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algocamp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/arrays/PrintWaveArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/arrays/RotateArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/cses/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/cses/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/cses/WeirdAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/intro/Armstrong.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/intro/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/intro/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/intro/Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/intro/Reverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/intro/SumOfNNatNo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/pattern/Butterfly.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/pattern/Diamond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/pattern/IsoTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/pattern/MissingTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/pattern/NicePattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algocamp/pattern/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,17 +152,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="algocamp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="algocamp" />
-      <option name="filePath" />
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
